@@ -1,0 +1,52 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="MoveLineDown" />
+  <action id="PreviousEditorTab" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ViewSource" />
+</keymap>

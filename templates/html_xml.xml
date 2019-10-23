@@ -1,0 +1,13 @@
+<templateSet group="html/xml">
+  <template name=":ci" value="&lt;code inline=&quot;true&quot;&gt;$CODE$&lt;/code&gt;$END$" description="Inline Code segment" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name=":br" value="&lt;br class=&quot;&quot;&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
