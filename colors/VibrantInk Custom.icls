@@ -4,7 +4,7 @@
     <property name="created">2018-03-11T20:12:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2019-11-19T09:53:40</property>
+    <property name="modified">2019-11-20T13:14:30</property>
     <property name="originalScheme">_@user_VibrantInk</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -981,6 +981,13 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6ec1ff" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
