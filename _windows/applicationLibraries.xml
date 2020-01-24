@@ -4,10 +4,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/fs-extra" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/joi" type="javaScript">
       <CLASSES />
       <SOURCES />
