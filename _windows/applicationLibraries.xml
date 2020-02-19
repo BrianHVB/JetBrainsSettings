@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/shelljs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/socket.io" type="javaScript">
       <CLASSES />
       <SOURCES />
