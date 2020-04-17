@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="presentational" type="JavaScript" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
